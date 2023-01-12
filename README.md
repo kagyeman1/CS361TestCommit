@@ -1,1 +1,1 @@
-# CS361TestCommit
+# CS361Assignment1: Environment Setup
